@@ -1,0 +1,11 @@
+{
+  "name": "HACS Ntuity",
+  "domain": "ntuity",
+  "documentation": "https://github.com/Reynardu/HACSNtuity",
+  "codeowners": ["Reynardu"],
+  "version": "0.1",
+  "requirements": [],
+  "dependencies": [],
+  "integration_type": "hub",
+  "iot_class": "cloud_pooling"
+}
