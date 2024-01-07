@@ -7,5 +7,6 @@
   "requirements": [],
   "dependencies": [],
   "integration_type": "hub",
-  "iot_class": "cloud_pooling"
+  "iot_class": "cloud_pooling",
+  "config_flow": true
 }
